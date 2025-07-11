@@ -1,0 +1,47 @@
+.header{
+    width: 1440px;
+    height: 698px;
+    background-image: url(B12A01-landing-launchpad/Assets/Hero-bg.png);
+    
+}
+.first{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 100px;
+}
+.signup{
+    background-color: #4E47FF;
+    width: 132px;
+    height: 48px;
+    font-weight: bold;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    
+    
+}
+
+.open{
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+#logo{
+    width: 99;
+    height: 51;
+    color: #4E47FF;
+}
+.second{
+   margin: 300px 150px 267px 500px;
+   width: 400px;
+   border-radius: 10px;
+   /* background-color: blueviolet; */
+   text-align: center;
+   font-size: 65;
+}
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+
+}
