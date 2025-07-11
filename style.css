@@ -1,5 +1,5 @@
 .header{
-    width: 1440px;
+    width: auto;
     height: 698px;
     background-image: url(B12A01-landing-launchpad/Assets/Hero-bg.png);
     
@@ -33,7 +33,7 @@
     color: #4E47FF;
 }
 .second{
-   margin: 300px 150px 267px 500px;
+   margin: 300px 150px 267px 750px;
    width: 400px;
    border-radius: 10px;
    /* background-color: blueviolet; */
@@ -44,4 +44,18 @@ main{
     max-width: 1140px;
     margin: 0 auto;
 
+}
+.third{
+    /* margin: 50px; */
+    display:flex;
+    justify-content:space-between;
+}
+.foken{
+    border-radius: 48px;
+    width: 403px;
+    height: 328px;
+}
+.sec1{
+    margin:50px 0px 0px 0px;
+    text-align: left;
 }
